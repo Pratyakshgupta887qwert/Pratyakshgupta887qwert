@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pratyaksh Gupta</h1>
-<h3 align="center">•》I passionate to learn new technology <br>•》"Always keep to learn more"⚛️ <br> •》"Embracing the wild ride, chasing dreams high" 🚀</h3>
+<h3 align="center">•》I passionate to learn new technologies <br>•》"Always keep to learn more"⚛️ <br> •》"Embracing the wild ride, chasing dreams high" 🚀</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif">
 
 
