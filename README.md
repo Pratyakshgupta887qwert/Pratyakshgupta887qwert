@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratyaksh Gupta</h1>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif" width="350" alt="Coding GIF"/>
-</p>
-
 <h3 align="center">
   🚀 Passionate Learner & Dream Chaser <br>
   ⚛️ Always striving to learn more <br>
