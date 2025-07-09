@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyakshgupta887qwert&label=Profile%20views&color=0e75b6&style=flat" alt="pratyakshgupta887qwert" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratyakshgupta887qwert" alt="pratyakshgupta887qwert" /></a> </p>
 
 - 🌱 I’m currently Pursuing **Bachelor of Technology (CSE)**
 
