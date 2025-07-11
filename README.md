@@ -22,9 +22,13 @@
 
 <p align="center">
   <p align="center">
-
-  <img src="https://leetcode.com/static/images/badges/2025/gif/2025-01.gif" alt="Jan 2025 Badge" height="100" />
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="Dec 2024 Badge" height="100" />
+  <img src="https://github.com/Pratyakshgupta887qwert/Pratyakshgupta887qwert/blob/main/leetcode%2050.gif" alt="Dec 2024 Badge" height="100" />
+  <img src="https://github.com/Pratyakshgupta887qwert/Pratyakshgupta887qwert/blob/main/badge%202025.gif" alt="Jan 2025 Badge" height="100" />
+  <img src="https://github.com/Pratyakshgupta887qwert/Pratyakshgupta887qwert/blob/main/202501.gif" alt="Dec 2024 Badge" height="100" />
+  <img src="https://github.com/Pratyakshgupta887qwert/Pratyakshgupta887qwert/blob/main/leetcode%20dec24.gif" alt="Jan 2025 Badge" height="100" />
+  <img src="https://github.com/Pratyakshgupta887qwert/Pratyakshgupta887qwert/blob/main/leetcode%20nov24.gif" alt="Dec 2024 Badge" height="100" />
+  
+</p>
 </p>
 
 
