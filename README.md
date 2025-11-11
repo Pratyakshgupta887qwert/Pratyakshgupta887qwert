@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pratyaksh Gupta</h1>
 <h3 align="center">🚀 Tech Explorer | 💻 B.Tech CSE Student | 🔍 Lifelong Learner</h3>
+<h4>
+  Look over my Resume :
+  <a href="https://drive.google.com/file/d/1gHwpGROCadNgUqdFkfMGwQTvkxedCRwD/view?usp=sharing" target="_blank">
+    Click here
+  </a>
+</h4>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pratyakshgupta887qwert&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
