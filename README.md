@@ -1,122 +1,110 @@
-<h1 align="center">Hi 👋, I'm Pratyaksh Gupta</h1>
-<h3 align="center">🚀 Tech Explorer | 💻 B.Tech CSE Student | 🔍 Lifelong Learner</h3>
-<h4>
-  Look over my Resume :
-  <a href="https://drive.google.com/file/d/1gHwpGROCadNgUqdFkfMGwQTvkxedCRwD/view?usp=sharing" target="_blank">
-    Click here
-  </a>
-</h4>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pratyakshgupta887qwert&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-
----
-
-<!-- 🚀 LeetCode Stats Section for Pratyaksh Gupta -->
-<!-- 
-<h2 align="center">🧠 LeetCode Stats</h2>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Pratyaksh_Gupta_04?theme=dark&font=Nunito&ext=heatmap" />
-</p>
--->
-
-## 🏅 LeetCode Badges
-
-<p align="center">
-  <p align="center">
-  <img src="https://github.com/Pratyakshgupta887qwert/Pratyakshgupta887qwert/blob/main/leetcode%2050.gif" alt="Dec 2024 Badge" height="100" />
-  <img src="https://github.com/Pratyakshgupta887qwert/Pratyakshgupta887qwert/blob/main/badge%202025.gif" alt="Jan 2025 Badge" height="100" />
-  <img src="https://github.com/Pratyakshgupta887qwert/Pratyakshgupta887qwert/blob/main/202501.gif" alt="Dec 2024 Badge" height="100" />
-  <img src="https://github.com/Pratyakshgupta887qwert/Pratyakshgupta887qwert/blob/main/leetcode%20dec24.gif" alt="Jan 2025 Badge" height="100" />
-  <img src="https://github.com/Pratyakshgupta887qwert/Pratyakshgupta887qwert/blob/main/leetcode%20nov24.gif" alt="Dec 2024 Badge" height="100" />
+<div align="center">
   
-</p>
-</p>
+# Hi 👋
 
+</div>
 
+I'm **Pratyaksh Gupta**, a 3rd-year B.Tech Computer Science student at **GLA University (Batch 2027)** passionate about building scalable software, backend systems, and AI-powered applications that solve real-world problems.
 
+I enjoy turning ideas into practical products with clean architecture, efficient APIs, and user-focused experiences. Currently, I’m strengthening my expertise in **Full-Stack Development**, **Backend Engineering**, and **Applied AI/ML** through hands-on projects, open-source contributions, and industry experience.
 
----
+During my training at **DevsLane**, I worked with **React, Redux, TypeScript, REST APIs**, and modern development workflows, gaining practical exposure to collaborative engineering practices and real-world software development.
 
-## ⚡ Current Statistics ⚡
+I’m passionate about:
+- 🚀 Full Stack Development  
+- ⚙️ Backend Engineering  
+- 🤖 AI & Machine Learning  
+- ☁️ Cloud Technologies  
+- 🌍 Open Source Contributions  
+
+<br>
 
 <div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Pratyakshgupta887qwert&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyakshgupta887qwert&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+
+<a href="https://linkedin.com/in/pratyaksh-gupta-348556299" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pratyakshgupta887@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<!-- <a href="https://x.com/PratyakshGuptaG" target="_blank">
+<img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a> -->
+
 </div>
 
 ---
 
-## 👨‍🎓 About Me
+# Welcome to my GitHub Profile Page
 
-- 🎓 B.Tech Computer Science Engineering Student  
-- 💡 Passionate about learning new technologies & building cool stuff  
-- ⚛️ Motto: *"Always keep learning!"*  
-- 🚀 *"Embracing the wild ride, chasing dreams high"*  
+## 👨‍💻 About Me :
+
+- 4rd-Year B.Tech CSE Student at GLA University  
+- Passionate about scalable software & backend systems  
+- Exploring AI-powered applications & machine learning   
+- Open Source Contributor at GSSoC 2025 & 2026  
+- Quantathon 2025 Winner  
+- Love building practical real-world projects  
 
 ---
 
-## 🔗 Connect With Me
+## 🛠️ Languages and Tools :
 
 <p align="left">
-  <a href="https://linkedin.com/in/pratyaksh-gupta-348556299" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:pratyakshgupta887@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/PratyakshGuptaG" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-  </a>
+
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=cs" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=typescript" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=dotnet" />
+<img src="https://skillicons.dev/icons?i=redux" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=postman" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=docker" />
+
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🔥 My Stats :
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="40" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratyakshgupta887qwert&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyakshgupta887qwert&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-## 📁 Projects
+## 🏅 Achievements :
 
-Check out my work:  
-👉 [GitHub Portfolio](https://github.com/Pratyakshgupta887qwert)
-
----
-
-## 📫 Reach Out
-
-Got something exciting to discuss or collaborate on?  
-📩 **Email me at:** pratyakshgupta887@gmail.com
+- 🥇 Quantathon 2025 Winner  
+- 🌟 GSSoC Open Source Contributor 2025 & 2026  
+- 📜 Certified in AI, ML, Cloud Computing & Python  
 
 ---
 
-## ⚡ Fun Fact
+## 📫 How to reach me :
+
+- 📧 Email: **pratyakshgupta887@gmail.com**
+- 🔗 LinkedIn: **linkedin.com/in/pratyaksh-gupta-348556299**
+- 🐦 Twitter/X: **x.com/PratyakshGuptaG**
+
+---
+
+## ⚡ Fun Fact :
 
 > *"You don’t have to be great to start, but you have to start to be great."* 💯
-
