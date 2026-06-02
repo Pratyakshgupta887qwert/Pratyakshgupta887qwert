@@ -92,7 +92,7 @@ I’m passionate about:
 ## 🏅 Achievements :
 
 - 🥇 Quantathon 2025 Winner  
-- 🌟 GSSoC Open Source Contributor 2025 & 2026  
+- 🌟 Open Source Contributor 2025 & 2026  
 - 📜 Certified in AI, ML, Cloud Computing & Python  
 
 ---
