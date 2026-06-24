@@ -44,7 +44,7 @@ I’m passionate about:
 - 4rd-Year B.Tech CSE Student at GLA University  
 - Passionate about scalable software & backend systems  
 - Exploring AI-powered applications & machine learning   
-- Open Source Contributor at GSSoC 2025 & 2026  
+- Open Source Contributor at GSSoC 2026 & 2025  
 - Quantathon 2025 Winner  
 - Love building practical real-world projects  
 
