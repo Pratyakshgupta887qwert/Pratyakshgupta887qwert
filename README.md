@@ -4,7 +4,7 @@
 
 </div>
 
-I'm **Pratyaksh Gupta**, a 3rd-year B.Tech Computer Science student at **GLA University (Batch 2027)** passionate about building scalable software, backend systems, and AI-powered applications that solve real-world problems.
+I'm **Pratyaksh Gupta**, a 4rd-year B.Tech Computer Science student at **GLA University (Batch 2027)** passionate about building scalable software, backend systems, and AI-powered applications that solve real-world problems.
 
 I enjoy turning ideas into practical products with clean architecture, efficient APIs, and user-focused experiences. Currently, I’m strengthening my expertise in **Full-Stack Development**, **Backend Engineering**, and **Applied AI/ML** through hands-on projects, open-source contributions, and industry experience.
 
