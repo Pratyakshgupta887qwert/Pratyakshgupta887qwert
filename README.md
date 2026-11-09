@@ -20,6 +20,10 @@ I’m passionate about:
 <br>
 
 <div align="center">
+  
+<a href="https://pratyakshgupta887qwert.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/MY_PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website"/>
+</a>
 
 <a href="https://linkedin.com/in/pratyaksh-gupta-348556299" target="_blank">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -66,13 +70,14 @@ I’m passionate about:
 <img src="https://skillicons.dev/icons?i=redux" />
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=postgresql" />
 <img src="https://skillicons.dev/icons?i=aws" />
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=postman" />
 <img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=docker" />
-
+<img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 ---
