@@ -34,9 +34,13 @@ I’m passionate about:
 <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<!-- <a href="https://x.com/PratyakshGuptaG" target="_blank">
+<a href="https://medium.com/@pratyakshgupta44" target="_blank">
+  <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile"/>
+</a>
+
+<a href="https://x.com/PratyakshGuptaG" target="_blank">
 <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a> -->
+</a>
 
 </div>
 
