@@ -79,6 +79,8 @@ I’m passionate about:
 <img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=docker" />
 <img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=swift" />
+
 </p>
 
 ---
