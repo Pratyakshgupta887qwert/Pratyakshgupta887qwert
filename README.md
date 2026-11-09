@@ -12,7 +12,8 @@ During my training at **DevsLane**, I worked with **React, Redux, TypeScript, RE
 
 I’m passionate about:
 - 🚀 Full Stack Development  
-- ⚙️ Backend Engineering  
+- ⚙️ Backend Engineering
+- 📱 iOS Development
 - 🤖 AI & Machine Learning  
 - ☁️ Cloud Technologies  
 - 🌍 Open Source Contributions  
